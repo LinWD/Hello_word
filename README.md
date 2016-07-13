@@ -1,2 +1,4 @@
 # Hello_word
-just another repository
+
+Hello everyone!
+  I am a new coder using github,this ropository is my first practiced test!
